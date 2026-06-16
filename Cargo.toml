@@ -1,0 +1,14 @@
+[workspace]
+members = [
+    "core",
+    "api",
+    "realtime",
+    "routing",
+    "share",
+    "db",
+    "auth",
+    "push",
+    "mobile-bridge",
+    "cli"
+]
+resolver = "2"
